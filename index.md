@@ -7,7 +7,7 @@ title: Praneeth Katta
 
 📧 kattapraneeth288@gmail.com  
 📱 +91 7989636801  
-🔗 [GitHub](https://github.com/KattaPraneeth) | [LinkedIn](https://www.linkedin.com/in/praneeth-katta/) | [Leetcode](https://leetcode.com/u/Praneeth_Katta/)
+🔗 [GitHub](https://github.com/KattaPraneeth) | [LinkedIn](https://www.linkedin.com/in/praneeth-katta-964646233/) | [Leetcode](https://leetcode.com/u/Praneeth_Katta/)
 
 ---
 
