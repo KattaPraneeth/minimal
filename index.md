@@ -3,7 +3,7 @@ layout: default
 title: Praneeth Katta
 ---
 
-# Praneeth Katta
+## Contact me
 
 📧 kattapraneeth288@gmail.com  
 📱 +91 7989636801  
