@@ -1,123 +1,110 @@
 ---
 layout: default
+title: Praneeth Katta
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Praneeth Katta
 
-[Link to another page](./another-page.html).
+📧 kattapraneeth288@gmail.com  
+📱 +91 7989636801  
+🔗 [GitHub](https://github.com/KattaPraneeth) | [LinkedIn](https://www.linkedin.com/in/praneeth-katta/) | [Leetcode](https://leetcode.com/u/Praneeth_Katta/)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Skills
 
-# Header 1
+**Programming**: Java, C, Python, JavaScript, SQL, HTML5, CSS3  
+**Libraries/Frameworks**: Spring Boot, React.js, Node.js, Express.js, Django  
+**Databases**: MongoDB, PostgreSQL  
+**Concepts**: Data Structures, Algorithms, OS, DBMS, CN, ML, DL, NLP  
+**Tools**: Git/Github, Docker, Kubernetes, Azure DevOps, Federated Learning
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Zeta (Directi), Hyderabad, India — _SDE Intern_  
+**Jan 2025 – June 2025**  
+- Contributed to HDFC credit card processing systems.
+- Achieved 91% unit test coverage in interest-app service.
+- Developed end-to-end integration tests for exception handling.
 
-### Header 3
+### Hexagon Capability Centre India, Hyderabad — _SDE Intern_  
+**June 2024 – Dec 2024**  
+- Contributed to S3D project delivery system enhancements.
+- Integrated RCM to enable dynamic configuration for components.
+- Worked with C#, .NET, XML in Azure DevOps Agile environment.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Academic Projects
 
-#### Header 4
+### DoS & DDoS Attack Detection using Federated Learning  
+- Used CICIoMT2024 dataset for training.
+- Designed autoencoder + GRU-based classifier.
+- Evolved architecture to a ring all-reduce decentralized system.
+- Achieved >99% accuracy.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## Personal Projects
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Vehicle Management System  
+**Spring Boot, JPA, PostgreSQL**  
+- Built rental management system for cars/bikes with user/admin portals.
+- Included notifications, invoice generation, and payment tracking.
 
-###### Header 6
+### Ticket Categorization System  
+**ML, NLP**  
+- Built ticket classifier using logistic regression, decision trees, and random forest.
+- Used GridSearchCV, POS tagging, and topic modeling via NMF.
+- Achieved 88% accuracy.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### BlogSphere  
+**ReactJS, ExpressJS, NodeJS, MongoDB**  
+- Created a full-stack blogging platform with JWT auth and CRUD features.
 
-### There's a horizontal rule below this.
+### QuickCart  
+**Django, Bootstrap**  
+- E-commerce platform with cart, billing, payment gateway and responsive UI.
 
-* * *
+### Inventory Management System  
+**Java**  
+- Console-based app using OOP to manage inventory stock with add/deduct features.
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Education
 
-### And an ordered list:
+**Chaitanya Bharathi Institute of Technology**, Hyderabad  
+_B.E. in Computer Science_ — **CGPA: 9.25/10.0**  
+*Dec 2021 – May 2025*
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Narayana Jr. College**, Hyderabad  
+_Intermediate (MPC)_ — **978/1000**  
+*Mar 2019 – Mar 2021*
 
-### And a nested list:
+**Narayana High School**, Nalgonda  
+_Class X_ — **GPA: 10/10**  
+*Mar 2018 – Mar 2019*
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
-### Small image
+## Achievements
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+- **JPMorgan CFG-2023**: Built a solution for NGO problem in 24-hr hackathon.
+- **SIH-2023 Hackathon**: Shortlisted for Smart India Hackathon 2022.
+- Solved ~600 problems across Leetcode, Hackerrank, and Codeforces.
 
-### Large image
+---
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Certifications
 
+- [Fundamentals of Java – Oracle](https://drive.google.com/file/d/1Ay3u6czwnTfxvZGSOby-ySiJQB-Q7NAf/view?usp=sharing)
+- [Web Development Bootcamp – Udemy](https://www.udemy.com/certificate/UC-1a76dddf-3e0e-4395-b96d-04d9b521d829/)
+- [Java 11 – LinkedIn Learning](https://drive.google.com/file/d/1Q5Hk-rSz_zy3xyUxRZyY46iwEhqLBJ13/view?usp=sharing)
+- [Problem Solving – HackerRank](https://www.hackerrank.com/certificates/9b5214fe2724)
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*Feel free to reach out via email or LinkedIn for collaboration or opportunities!*
